@@ -56,6 +56,6 @@
 | Document-Level Neural Machine Translation with Hierarchical Attention Networks | *Lesly Miculicich，Dhananjay Ram， Nikolaos Pappas and James Henderson* | Document-Level NMT | http://aclweb.org/anthology/D18-1325 |
 | Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation | *Samuel Laubli, Rico Sennrich, Martin Volk* | Document-Level NMT | https://www.aclweb.org/anthology/D18-1512 | 
 | The Lazy Encoder: A Fine-Grained Analysis of the Role of Morphology in Neural Machine Translation | *Arianna Bisazza, Clara Tump* | Analysis | https://www.aclweb.org/anthology/D18-1313
-| Beyond Error Propagation in Neural Machine Translation: Characteristics of Language Also Matter | *Lijun Wu, Xu Tan, Di He, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu | Analysis | https://www.aclweb.org/anthology/D18-1396 |
+| Beyond Error Propagation in Neural Machine Translation: Characteristics of Language Also Matter | *Lijun Wu, Xu Tan, Di He, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu* | Analysis | https://www.aclweb.org/anthology/D18-1396 |
 | Automatic Post-Editing of Machine Translation: A Neural Programmer-Interpreter Approach | *Thuy-Trang Vu, Gholamreza Haffari* | Post-Editting | https://www.aclweb.org/anthology/D18-1341 |
 
