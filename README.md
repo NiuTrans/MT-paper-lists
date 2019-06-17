@@ -1,5 +1,5 @@
 # MT-paper-lists
-This is machine translation paper lists maintained by a joint team from NLP Lab. at Northeastern University and the NiuTrans Team.
+Lists of MT papers (by conference). They are maintained by the NiuTrans team. Please contact Yinqiao Li (li.yin.qiao.2012@hotmail.com) if there are any questions or comments.
 
 Paper lists:
 [ACL-2018](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/ACL-2018.md),
