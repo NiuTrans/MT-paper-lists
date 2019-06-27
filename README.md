@@ -7,3 +7,4 @@ Paper lists:
 [EMNLP-2018](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/EMNLP-2018.md),
 [NAACL-2018](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/NAACL-2018.md),
 [ACL-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/ACL-2019.md)
+[NAACL-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/NAACL-2019.md)
