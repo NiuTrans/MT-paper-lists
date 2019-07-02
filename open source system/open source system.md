@@ -5,7 +5,8 @@
 | System                                                | Team                                                | Description | Link         | Framework |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- | -------------------------------- | ------------------------------------------------------------ |
 | Tensor2Tensor | [Google Brain team](https://research.google.com/teams/brain/) | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. | https://github.com/tensorflow/tensor2tensor | Tensorflow |
-| Fairseq | Facebook Research | Fairseq(-py) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks. | https://github.com/pytorch/fairseq | Pytorch |
+| Fairseq | Facebook Research | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. | https://github.com/pytorch/fairseq | Pytorch |
+| facebookresearch/fairseq | Facebook Research | Facebook AI Research Sequence-to-Sequence Toolkit | https://github.com/facebookresearch/fairseq | Lua |
 | OpenNMT-tf    | OpenNMT | Neural machine translation and sequence learning using TensorFlow | https://github.com/OpenNMT/OpenNMT-tf | Tensorflow |
 | OpenNMT-py | OpenNMT | Open Source Neural Machine Translation in PyTorch | https://github.com/OpenNMT/OpenNMT-py | Pytorch |
 | THUMT | Tsinghua Natural Language Processing Group | Transformer, Multi-GPU training & decoding, Distributed training | https://github.com/THUNLP-MT/THUMT | Tensorflow/Theano |
