@@ -11,7 +11,7 @@ Paper lists by conference:
 
 Paper lists by area:
 [Deep Network](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Deep-Network.md),
-[Fast RNN](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Fast-RNN-2019.md)
+[Fast RNN](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Fast-RNN.md)
 
 
 # Open source systems
