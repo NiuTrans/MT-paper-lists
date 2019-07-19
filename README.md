@@ -10,8 +10,8 @@ Paper lists by conference:
 [NAACL-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/NAACL-2019.md)
 
 Paper lists by area:
-[Deep Network](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Deep-Network.md),
-[Fast RNN](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Fast-RNN-2019.md)
+[Deep Network](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Deep-Network.md),
+[Fast RNN](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Fast-RNN-2019.md)
 
 
 # Open source systems
