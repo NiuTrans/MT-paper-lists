@@ -7,7 +7,9 @@ Paper lists by conference:
 [EMNLP-2018](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/EMNLP-2018.md),
 [NAACL-2018](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/NAACL-2018.md),
 [ACL-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/ACL-2019.md),
-[NAACL-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/NAACL-2019.md)
+[NAACL-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/NAACL-2019.md),
+
+[EMNLP-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/EMNLP-2019.md)
 
 Paper lists by area:
 [Deep Network](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Deep-Network.md),
