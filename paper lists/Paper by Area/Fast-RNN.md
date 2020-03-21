@@ -1,4 +1,4 @@
-# Machine Translation Paper List (COLING-2018)
+# Machine Translation Paper List (Fast-RNN)
 
 ### Long papers (19)
 
