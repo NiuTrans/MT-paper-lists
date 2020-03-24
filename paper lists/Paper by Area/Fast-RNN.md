@@ -1,7 +1,5 @@
 # Machine Translation Paper List (Fast-RNN)
 
-### Long papers (19)
-
 | Paper                                                        | Authors                                                     | Venue   | Link                             |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------- | -------------------------------- |
 | A Lightweight Recurrent Network for Sequence Modeling        | *Biao Zhang, Rico Sennrich*                                 | ACL 19  | https://arxiv.org/abs/1905.13324 |
