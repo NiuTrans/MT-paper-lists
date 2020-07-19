@@ -13,6 +13,8 @@ Paper lists by conference:
 [IJCAI-2019](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/IJCAI-2019.md),
 [AAAI-2020](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/AAAI-2020.md)
 
+[ACL-2020](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/ACL-2020.md)
+
 Paper lists by area:
 [Deep Network](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Deep-Network.md),
 [Fast RNN](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Fast-RNN.md)
