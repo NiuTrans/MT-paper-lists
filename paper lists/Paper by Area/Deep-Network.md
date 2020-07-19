@@ -1,9 +1,15 @@
 # Machine Translation Paper List (Deep Network)
 
-| Paper                                                        | Authors                                                      | Venue      | Link                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | --------------------------------------------- |
-| Training Deeper Neural Machine Translation Models with Transparent Attention | *Ankur Bapna, Mia Chen, Orhan Firat, Yuan Cao, Yonghui Wu*   | EMNLP-2018 | https://www.aclweb.org/anthology/D18-1338     |
-| Learning Deep Transformer Models for Machine Translation     | *Qiang Wang, Bei Li, Tong Xiao, Jingbo Zhu, Changliang Li, Derek F. Wong, Lidia S. Chao* | ACL-2019   | https://arxiv.org/pdf/1906.01787.pdf          |
-| Character-Level Language Modeling with Deeper Self-Attention | *Rami Al-Rfou, Dokook Choe, Noah Constant, Mandy Guo, Llion Jones* | CoRR       | https://arxiv.org/abs/1808.04444              |
-| Very Deep Self-Attention Networks for End-to-End Speech Recognition | *Ngoc-Quan Pham, Thai-Son Nguyen, Jan Niehues, Markus Muller, Sebastian Stuker, Alexander Waibel* | CoRR       | https://arxiv.org/abs/1904.13377              |
-| Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention | *Biao Zhang, Ivan Titov, Rico Sennrich*                      | EMNLP-2019 | https://www.aclweb.org/anthology/D19-1083.pdf |
+| Paper                                                        | Authors                                                      | Venue      | Link                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
+| Training Deeper Neural Machine Translation Models with Transparent Attention | *Ankur Bapna, Mia Chen, Orhan Firat, Yuan Cao, Yonghui Wu*   | EMNLP-2018 | https://www.aclweb.org/anthology/D18-1338               |
+| Learning Deep Transformer Models for Machine Translation     | *Qiang Wang, Bei Li, Tong Xiao, Jingbo Zhu, Changliang Li, Derek F. Wong, Lidia S. Chao* | ACL-2019   | https://arxiv.org/pdf/1906.01787.pdf                    |
+| Depth Growing for Neural Machine Translation                 | *Lijun Wu, Yiren Wang, Yingce Xia, Fei Tian, Fei Gao, Tao Qin, Jianhuang Lai, Tie-Yan Liu* | ACL-2019   | https://www.aclweb.org/anthology/P19-1558.pdf           |
+| Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention | *Biao Zhang, Ivan Titov, Rico Sennrich*                      | EMNLP-2019 | https://www.aclweb.org/anthology/D19-1083.pdf           |
+| Lipschitz Constrained Parameter Initialization for Deep Transformers | *Hongfei Xu, Qiuhui Liu, Josef van Genabith, Deyi Xiong, Jingyi Zhang* | ACL-2020   | https://www.aclweb.org/anthology/2020.acl-main.38.pdf   |
+| Multiscale Collaborative Deep Models for Neural Machine Translation | *Xiangpeng Wei, Heng Yu, Yue Hu, Yue Zhang, Rongxiang Weng, Weihua Luo* | ACL-2020   | https://www.aclweb.org/anthology/2020.acl-main.40.pdf   |
+| Improving Transformer Optimization Through Better Initialization | *Xiao Shi Huang, Felipe Perez, Jimmy Ba, Maksims Volkovs*    | ICML-2020  | http://www.cs.toronto.edu/~mvolkovs/ICML2020_tfixup.pdf |
+| Understanding the Difficulty of Training Transformers        | *Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen, JIawei Han* | arXiv      | https://arxiv.org/pdf/2004.08249.pdf                    |
+| GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding | *Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen* | arXiv      | https://arxiv.org/pdf/2006.16668.pdf                    |
+| Character-Level Language Modeling with Deeper Self-Attention | *Rami Al-Rfou, Dokook Choe, Noah Constant, Mandy Guo, Llion Jones* | CoRR       | https://arxiv.org/abs/1808.04444                        |
+| Very Deep Self-Attention Networks for End-to-End Speech Recognition | *Ngoc-Quan Pham, Thai-Son Nguyen, Jan Niehues, Markus Muller, Sebastian Stuker, Alexander Waibel* | CoRR       | https://arxiv.org/abs/1904.13377                        |
