@@ -15,8 +15,8 @@ Paper lists by conference:
 [ACL-2020](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Conference/ACL-2020.md)
 
 Paper lists by area:
-[Deep Network](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Deep-Network.md),
-[Fast RNN](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Fast-RNN.md)
+[Deep Networks](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Deep-Network.md),
+[Fast RNNs](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Fast-RNN.md)
 
 
 # Open source systems
