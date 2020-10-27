@@ -18,7 +18,7 @@ Paper lists by area:
 [Deep Networks](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Deep-Network.md),
 [Fast RNNs](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Fast-RNN.md),
 [Knowlege Distillation of BERT](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/Knowlege-Distillation-of-BERT.md),
-[None autoregressive Translation](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/None-Autoregressive-Translation.md)
+[Non-autoregressive Translation](https://github.com/NiuTrans/MT-paper-lists/blob/master/paper%20lists/Paper%20by%20Area/None-Autoregressive-Translation.md)
 
 
 # Open source systems
