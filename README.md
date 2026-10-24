@@ -17,6 +17,8 @@
     - [2019](#2019-3)
   - [COLING](#coling)
     - [2018](#2018-3)
+  - [CCL](#ccl)
+    - [2024](#2024)
 - [List by Area](#list-by-area)
   - [Deep Transformer](#deep-transformer)
   - [Fast RNN](#fast-rnn)
@@ -1919,6 +1921,16 @@
     *Solomon Teferra Abate, Michael Melese, Martha Yifiru Tachbelie, Million Meshesha, Solomon Atinafu, Wondwossen Mulugeta, Yaregal Assabie, Hafte Abera, Binyam Ephrem, Tewodros Abebe, Wondimagegnhue Tsegaye, Amanuel Lemma, Tsegaye Andargie and Seifedin Shifaw*
 
     **Domain**: Data Processing
+
+### CCL
+
+#### 2024
+
+1. **Translate-and-Revise: Boosting Large Language Models for Constrained Translation.** [paper](https://aclanthology.org/2024.ccl-1.82/)
+
+    *Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, Jingbo Zhu*
+
+    **Domain**: Practical Problems in Machine Translation
 
 
 ## List by Area
